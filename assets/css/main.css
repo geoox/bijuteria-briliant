@@ -159,7 +159,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #00D3B7;
+			color: #dbc490;
 		}
 
 	strong, b {
@@ -841,7 +841,7 @@ input, select, textarea {
 		outline: 0;
 		overflow-x: hidden;
 		overflow-y: auto;
-		text-align: right;
+		text-align: center;
 		visibility: visible;
 		z-index: 10000;
 		right: 0;
